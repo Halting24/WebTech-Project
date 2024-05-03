@@ -1,0 +1,29 @@
+/* Checkout.css */
+.checkout {
+  background: #fff;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.checkout h1 {
+  color: #333;
+}
+
+.checkout p {
+  font-size: 18px;
+  color: #666;
+}
+
+.checkout button {
+  background: #28a745;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.checkout button:hover {
+  background: #218838;
+}
