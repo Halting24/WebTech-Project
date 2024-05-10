@@ -1,0 +1,8 @@
+Lessons Learned
+- To make sure we have a list for username and password.
+- Starting over is fine.
+- WRITE YOUR VM PASSWORD DOWN!! - 
+- Platform Changes where website is being hosted
+- We used Create React App after all problems
+- JS code and CSS had to be rewritten
+- Going back and forth between Ubuntu Vm and WSL (Windows Subsystem for Linux) - Ubuntu Distro
